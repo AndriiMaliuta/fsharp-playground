@@ -1,0 +1,170 @@
+Country,Operating Region,Scope
+Indonesia,Asia,Include
+Iceland,Europe,Include
+Rwanda,Africa,Exclude
+,Asia,Include
+Bahrain,Asia,Include
+South Africa,Africa,Include
+Nigeria,Africa,Include
+Trinidad And Tobago,America,Include
+Luxembourg,Europe,Include
+Moldova,Europe,Include
+Mozambique,Africa,Include
+,Europe,Include
+United States,America,Include
+Ukraine,Europe,Include
+China,Asia,Include
+,Africa,Include
+Botswana,Africa,Include
+Colombia,America,Include
+Ghana,Africa,Exclude
+Philippines,Asia,Include
+Dominican Republic,America,Include
+Malta,Europe,Include
+Uganda,Africa,Include
+Kenya,Africa,Include
+Senegal,Africa,Include
+Serbia,Europe,Include
+Turkey,Europe,Include
+Hungary,Europe,Include
+Bosnia and Herzegovina,Europe,Include
+Costa Rica,America,Include
+India,Asia,Include
+Malaysia,Asia,Include
+Peru,America,Include
+Romania,Europe,Include
+Canada,America,Include
+Denmark,Europe,Include
+Mauritius,Africa,Exclude
+Bulgaria,Europe,Include
+Chile,America,Include
+,America,Include
+,America,Include
+Cyprus,Europe,Include
+Greece,Europe,Include
+Namibia,Africa,Exclude
+Poland,Europe,Include
+Czech Republic,Europe,Include
+Ireland,Europe,Include
+Latvia,Europe,Include
+Albania,Europe,Include
+Taiwan,Asia,Include
+Singapore,Asia,Include
+Thailand,Asia,Include
+Australia,Australia,Include
+Finland,Europe,Include
+New Zealand,Australia,Include
+Portugal,Europe,Include
+Slovakia,Europe,Include
+Tunisia,Africa,Include
+Belgium,Europe,Include
+Brazil,America,Include
+Ecuador,America,Include
+Estonia,Europe,Include
+Netherlands,Europe,Include
+South Korea,Asia,Include
+Spain,Europe,Include
+El Salvador,America,Include
+European Union,Europe,Include
+France,Europe,Include
+Japan,Asia,Include
+Norway,Europe,Include
+Switzerland,Europe,Include
+Austria,Europe,Include
+Croatia,Europe,Include
+Euro Area,Europe,Include
+Russia,Europe,Include
+Slovenia,Europe,Include
+Israel,Asia,Include
+Italy,Europe,Include
+Jamaica,America,Include
+Lithuania,Europe,Include
+Mexico,America,Include
+Sweden,Europe,Include
+Germany,Europe,Include
+Paraguay,America,Include
+Honduras,America,Include
+United Kingdom,Europe,Include
+Argentina,America,Include
+Belize,America,Include
+Qatar,Asia,Include
+Bolivia,America,Include
+Saudi Arabia,Asia,Include
+Kuwait,Asia,Include
+Hong Kong,Asia,Include
+Venezuela,America,Include
+Zimbabwe,Africa,Include
+Sudan,Africa,Include
+Iran,Asia,Include
+Liberia,Africa,Include
+Haiti,America,Include
+Ethiopia,Africa,Exclude
+Angola,Africa,Include
+Sierra Leone,Africa,Include
+Uzbekistan,Asia,Include
+Pakistan,Asia,Include
+Zambia,Africa,Include
+Myanmar,Asia,Include
+Yemen,Asia,Include
+Guinea,Africa,Include
+Malawi,Africa,Include
+Mongolia,Asia,Include
+Tajikistan,Asia,Include
+Gambia,Africa,Include
+Georgia,Asia,Include
+Nepal,Asia,Include
+Cuba,America,Include
+Bangladesh,Asia,Include
+Madagascar,Africa,Include
+Sao Tome and Principe,Africa,Include
+Sri Lanka,Asia,Include
+Kazakhstan,Asia,Include
+Lesotho,Africa,Include
+Egypt,Africa,Include
+Papua New Guinea,Australia,Include
+Suriname,America,Include
+Bhutan,Asia,Include
+Congo,Africa,Include
+Tanzania,Africa,Include
+Laos,Asia,Include
+Barbados,America,Include
+Guatemala,America,Include
+Central African Republic,Africa,Include
+Bahamas,America,Include
+Macau,Asia,Include
+Azerbaijan,Asia,Include
+Cameroon,Africa,Exclude
+Mauritania,Africa,Include
+Kyrgyzstan,Asia,Include
+Vietnam,Asia,Include
+Guyana,America,Include
+Cambodia,Asia,Include
+Burundi,Africa,Include
+Swaziland,Africa,Include
+Algeria,Africa,Include
+Comoros,Africa,Include
+Seychelles,Africa,Include
+Equatorial Guinea,Africa,Include
+Lebanon,Asia,Include
+Republic of the Congo,Africa,Include
+Gabon,Africa,Include
+Maldives,Asia,Include
+Cape Verde,Africa,Include
+Armenia,Asia,Include
+Ivory Coast,Africa,Include
+Fiji,Australia,Include
+Morocco,Africa,Include
+New Caledonia,Australia,Include
+Oman,Asia,Include
+Guinea Bissau,Africa,Include
+Iraq,Asia,Include
+Jordan,Asia,Include
+Togo,Africa,Include
+Brunei,Asia,Include
+Benin,Africa,Include
+United Arab Emirates,Asia,Include
+Chad,Africa,Include
+Mali,Africa,Include
+Niger,Africa,Include
+Burkina Faso,Africa,Include
+Libya,Africa,Exclude
