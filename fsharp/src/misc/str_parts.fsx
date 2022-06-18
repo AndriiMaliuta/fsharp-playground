@@ -8,5 +8,5 @@ let getMiddle (str : string) =
     elif str.Length % 2 = 0 then str.[ (str.Length / 2) - 1 .. (str.Length / 2) + 2 ]
     else ""
 
-let mid = getMiddle "Hello there"
+let mid = getMiddle "testing"
 printfn $"{mid}"
